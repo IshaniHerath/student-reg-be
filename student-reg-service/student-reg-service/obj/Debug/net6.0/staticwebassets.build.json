@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RbEvtZ++dD4lXcUQmYB6XPUNDakS2GtZaUwb7ACnzEQ=",
+  "Source": "student-reg-service",
+  "BasePath": "_content/student-reg-service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
